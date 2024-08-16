@@ -286,8 +286,8 @@
     "affix.apotheosis:armor/attribute/windswept": "Ветреный",
     "affix.apotheosis:armor/attribute/windswept.suffix": "нынешнего",
 
-    "affix.apotheosis:armor/attribute/ironforged": "Стальгорновый",
-    "affix.apotheosis:armor/attribute/ironforged.suffix": "железа",
+    "affix.apotheosis:armor/attribute/ironforged": "Железокованный",
+    "affix.apotheosis:armor/attribute/ironforged.suffix": "кузнеца",
 
     "affix.apotheosis:sword/attribute/violent": "Насильственный",
     "affix.apotheosis:sword/attribute/violent.suffix": "убийства",
@@ -406,8 +406,8 @@
 	"affix.apotheosis:shield/mob_effect/withering": "Иссушающий",
     "affix.apotheosis:shield/mob_effect/withering.suffix": "чёрного скелета",
 
-    "affix.apotheosis:shield/attribute/ironforged": "Стальгорновый",
-    "affix.apotheosis:shield/attribute/ironforged.suffix": "железа",
+    "affix.apotheosis:shield/attribute/ironforged": "Железогорновый",
+    "affix.apotheosis:shield/attribute/ironforged.suffix": "кузнеца",
 
 	"affix.apotheosis:shield/attribute/steel_touched": "Стальной",
     "affix.apotheosis:shield/attribute/steel_touched.suffix": "защитника",
@@ -420,93 +420,93 @@
 
 	"affix.apotheosis:spectral": "Спектральный",
     "affix.apotheosis:spectral.suffix": "покинутого",
-    "affix.apotheosis:spectral.desc": "• У вас есть шанс %s%% выпустить вторую стрелу.",
+    "affix.apotheosis:spectral.desc": "У вас есть шанс %s%% выпустить вторую стрелу.",
 	
 	"affix.apotheosis:magical": "Магический",
     "affix.apotheosis:magical.suffix": "таинства",
-    "affix.apotheosis:magical.desc": "• Ваши стрелы наносят магический урон.",
+    "affix.apotheosis:magical.desc": "Ваши стрелы наносят магический урон.",
 	
 	"affix.apotheosis:festive": "Фестивальный",
     "affix.apotheosis:festive.suffix": "вечеринок",
-    "affix.apotheosis:festive.desc": "• Убитые враги имеют %s%% шанс стать добычей Пиньяты",
+    "affix.apotheosis:festive.desc": "Убитые враги имеют %s%% шанс стать добычей Пиньяты",
 	
 	"affix.apotheosis:thunderstruck": "Громовержец",
     "affix.apotheosis:thunderstruck.suffix": "шторма",
-    "affix.apotheosis:thunderstruck.desc": "• Ваши атаки наносят %s урона ближайшим врагам.",
+    "affix.apotheosis:thunderstruck.desc": "Ваши атаки наносят %s урона ближайшим врагам.",
 	
 	"affix.apotheosis:retreating": "Отступающий",
     "affix.apotheosis:retreating.suffix": "шута",
-    "affix.apotheosis:retreating.desc": "• Вы отпрыгнете назад при блокировании в ближнем бою.",
+    "affix.apotheosis:retreating.desc": "Вы отпрыгнете назад при блокировании в ближнем бою.",
 	
 	"affix.apotheosis:telepathic": "Телепатический",
     "affix.apotheosis:telepathic.suffix": "пространства и времени",
-    "affix.apotheosis:telepathic.desc.weapon": "• Дроп с мобов будет телепортироваться к вам.",
-    "affix.apotheosis:telepathic.desc.tool": "• Дроп с блоков будет телепортироваться к вам.",
+    "affix.apotheosis:telepathic.desc.weapon": "Дроп с мобов будет телепортироваться к вам.",
+    "affix.apotheosis:telepathic.desc.tool": "Дроп с блоков будет телепортироваться к вам.",
 
 	"affix.apotheosis:executing": "Казнящий",
     "affix.apotheosis:executing.suffix": "палача",
-    "affix.apotheosis:executing.desc": "• Враги с максимальным здоровьем ниже %s%% будут казнены.",
+    "affix.apotheosis:executing.desc": "Враги с максимальным здоровьем ниже %s%% будут казнены.",
 	
 	"affix.apotheosis:cleaving": "Рассекающий",
     "affix.apotheosis:cleaving.suffix": "мясника",
-    "affix.apotheosis:cleaving.desc": "• Атаки имеют шанс %s%% поразить до %s ближайших врагов.",
+    "affix.apotheosis:cleaving.desc": "Атаки имеют шанс %s%% поразить до %s ближайших врагов.",
 
 	"affix.apotheosis:enlightened": "Просвещённый",
     "affix.apotheosis:enlightened.suffix": "светозара",
-    "affix.apotheosis:enlightened.desc": "• Этот инструмент может разместить факел ценой %s прочности.",
+    "affix.apotheosis:enlightened.desc": "Этот инструмент может разместить факел ценой %s прочности.",
 
 	"affix.apotheosis:psychic": "Психический",
     "affix.apotheosis:psychic.suffix": "мстителя",
-    "affix.apotheosis:psychic.desc": "• Блокирование снаряда наносит стрелку %s%% урона.",
+    "affix.apotheosis:psychic.desc": "Блокирование снаряда наносит стрелку %s%% урона.",
 
 	"affix.apotheosis:ranged/special/spectral": "Спектральный",
     "affix.apotheosis:ranged/special/spectral.suffix": "покинутого",
-    "affix.apotheosis:ranged/special/spectral.desc": "• У вас есть шанс %s%% выпустить вторую стрелу.",
+    "affix.apotheosis:ranged/special/spectral.desc": "У вас есть шанс %s%% выпустить вторую стрелу.",
 	
 	"affix.apotheosis:ranged/special/magical": "Магический",
     "affix.apotheosis:ranged/special/magical.suffix": "таинства",
-    "affix.apotheosis:ranged/special/magical.desc": "• Ваши стрелы наносят магический урон.",
+    "affix.apotheosis:ranged/special/magical.desc": "Ваши стрелы наносят магический урон.",
 	
 	"affix.apotheosis:sword/special/festive": "Фестивальный",
     "affix.apotheosis:sword/special/festive.suffix": "вечеринок",
-    "affix.apotheosis:sword/special/festive.desc": "• Убитые враги имеют %s%% шанс стать добычей Пиньяты",
+    "affix.apotheosis:sword/special/festive.desc": "Убитые враги имеют %s%% шанс стать добычей Пиньяты",
 	
 	"affix.apotheosis:sword/special/thunderstruck": "Громовержец",
     "affix.apotheosis:sword/special/thunderstruck.suffix": "шторма",
-    "affix.apotheosis:sword/special/thunderstruck.desc": "• Ваши атаки наносят %s урона ближайшим врагам.",
+    "affix.apotheosis:sword/special/thunderstruck.desc": "Ваши атаки наносят %s урона ближайшим врагам.",
 	
 	"affix.apotheosis:shield/special/retreating": "Отступающий",
     "affix.apotheosis:shield/special/retreating.suffix": "шута",
-    "affix.apotheosis:shield/special/retreating.desc": "• Вы отпрыгнете назад при блокировании в ближнем бою.",
+    "affix.apotheosis:shield/special/retreating.desc": "Вы отпрыгнете назад при блокировании в ближнем бою.",
 	
 	"affix.apotheosis:telepathic": "Телепатический",
     "affix.apotheosis:telepathic.suffix": "пространства и времени",
-    "affix.apotheosis:telepathic.desc.weapon": "• Дроп с мобов будет телепортироваться к вам.",
-    "affix.apotheosis:telepathic.desc.tool": "• Дроп с блоков будет телепортироваться к вам.",
+    "affix.apotheosis:telepathic.desc.weapon": "Дроп с мобов будет телепортироваться к вам.",
+    "affix.apotheosis:telepathic.desc.tool": "Дроп с блоков будет телепортироваться к вам.",
 
 	"affix.apotheosis:heavy_weapon/special/executing": "Исполняющий",
     "affix.apotheosis:heavy_weapon/special/executing.suffix": "палача",
-    "affix.apotheosis:heavy_weapon/special/executing.desc": "• Враги с максимальным здоровьем ниже %s%% будут казнены.",
+    "affix.apotheosis:heavy_weapon/special/executing.desc": "Враги с максимальным здоровьем ниже %s%% будут казнены.",
 	
 	"affix.apotheosis:heavy_weapon/special/cleaving": "Рассекающий",
     "affix.apotheosis:heavy_weapon/special/cleaving.suffix": "мясника",
-    "affix.apotheosis:heavy_weapon/special/cleaving.desc": "• Атаки имеют шанс %s%% поразить до %s ближайших врагов.",
+    "affix.apotheosis:heavy_weapon/special/cleaving.desc": "Атаки имеют шанс %s%% поразить до %s ближайших врагов.",
 
 	"affix.apotheosis:breaker/special/enlightened": "Просвещённый",
     "affix.apotheosis:breaker/special/enlightened.suffix": "светозара",
-    "affix.apotheosis:breaker/special/enlightened.desc": "• Этот инструмент может разместить факел ценой %s прочности.",
+    "affix.apotheosis:breaker/special/enlightened.desc": "Этот инструмент может разместить факел ценой %s прочности.",
 
 	"affix.apotheosis:shield/special/psychic": "Психический",
     "affix.apotheosis:shield/special/psychic.suffix": "мстителя",
-    "affix.apotheosis:shield/special/psychic.desc": "• Блокирование снаряда наносит стрелку %s%% урона.",
+    "affix.apotheosis:shield/special/psychic.desc": "Блокирование снаряда наносит стрелку %s%% урона.",
 
 	"affix.apotheosis:shield/special/catalyzing": "Катализирующий",
     "affix.apotheosis:shield/special/catalyzing.suffix": "преобразования",
-    "affix.apotheosis:shield/special/catalyzing.desc": "• Блокирование взрыва придаст вам огромную силу.",
+    "affix.apotheosis:shield/special/catalyzing.desc": "Блокирование взрыва придаст вам огромную силу.",
 
 	"affix.apotheosis:catalyzing": "Катализирующий",
     "affix.apotheosis:catalyzing.suffix": "преобразования",
-    "affix.apotheosis:catalyzing.desc": "• Блокирование взрыва придаст вам огромную силу.",
+    "affix.apotheosis:catalyzing.desc": "Блокирование взрыва придаст вам огромную силу.",
 
 	"affix.apotheosis:annihilating": "Уничтожающий",
     "affix.apotheosis:annihilating.suffix": "титана",
@@ -555,11 +555,11 @@
 
 	"affix.apotheosis:radial": "Радиальный",
     "affix.apotheosis:radial.suffix": "землекрушителя",
-    "affix.apotheosis:radial.desc": "• Инструмент ломает блоки по области %sx%s блоков.",
+    "affix.apotheosis:radial.desc": "Инструмент ломает блоки по области %sx%s блоков.",
 
 	"affix.apotheosis:breaker/special/radial": "Радиальный",
     "affix.apotheosis:breaker/special/radial.suffix": "землекрушителя",
-    "affix.apotheosis:breaker/special/radial.desc": "• Инструмент ломает блоки по области %sx%s блоков.",
+    "affix.apotheosis:breaker/special/radial.desc": "Инструмент ломает блоки по области %sx%s блоков.",
 
 	"affix.apotheosis:melee_weapon/mob_effect/detonating": "Детонирующий",
     "affix.apotheosis:melee_weapon/mob_effect/detonating.suffix": "элементаля пламени",
@@ -570,11 +570,11 @@
 	
 	"affix.apotheosis:omnetic": "Всепроникающий",
     "affix.apotheosis:omnetic.suffix": "сингулярности",
-    "affix.apotheosis:omnetic.desc": "• Этот инструмент имеет %s уровень эффективности против всех блоков.",
+    "affix.apotheosis:omnetic.desc": "Этот инструмент имеет %s уровень эффективности против всех блоков.",
 
 	"affix.apotheosis:breaker/special/omnetic": "Всепроникающий",
     "affix.apotheosis:breaker/special/omnetic.suffix": "сингулярности",
-    "affix.apotheosis:breaker/special/omnetic.desc": "• Этот инструмент имеет %s уровень эффективности против всех блоков.",
+    "affix.apotheosis:breaker/special/omnetic.desc": "Этот инструмент имеет %s уровень эффективности против всех блоков.",
 	
 	"misc.apotheosis.physical": "физический",
 	"misc.apotheosis.magic": "магичеcкий",
@@ -622,7 +622,7 @@
     "affix.apotheosis:durable": "Прочный",
     "affix.apotheosis:durable.suffix": "прочности",
 
-    "affix.apotheosis:damage_reduction.desc": "• Полученный %s урон уменьшен на %s%%.",
+    "affix.apotheosis:damage_reduction.desc": "Полученный %s урон уменьшен на %s%%.",
 	
 	"affix.apotheosis:blockading": "Блокадный",
     "affix.apotheosis:blockading.suffix": "блокады",
@@ -644,19 +644,19 @@
 	"affix.apotheosis:durable": "",
 	"affix.apotheosis:durable.suffix": "",
 
-	"affix.apotheosis.target.attack_self": "• При ударе, даёт %s",
-	"affix.apotheosis.target.attack_target": "• При ударе, наносит %s",
-	"affix.apotheosis.target.hurt_self": "• Когда атакован, даёт %s",
-	"affix.apotheosis.target.hurt_attacker": "• Когда атакован, наносит %s",
-	"affix.apotheosis.target.break_self": "• При разрушении блока, даёт %s",
-	"affix.apotheosis.target.arrow_self": "• При попадании стрелы, даёт %s",
-	"affix.apotheosis.target.arrow_target": "• При попадании стрелы, наносит %s",
-	"affix.apotheosis.target.block_self": "• При блокировании, даёт %s",
-	"affix.apotheosis.target.block_attacker": "• При блокировании, наносит %s",
+	"affix.apotheosis.target.attack_self": "При ударе, даёт %s",
+	"affix.apotheosis.target.attack_target": "При ударе, наносит %s",
+	"affix.apotheosis.target.hurt_self": "Когда атакован, даёт %s",
+	"affix.apotheosis.target.hurt_attacker": "Когда атакован, наносит %s",
+	"affix.apotheosis.target.break_self": "При разрушении блока, даёт %s",
+	"affix.apotheosis.target.arrow_self": "При попадании стрелы, даёт %s",
+	"affix.apotheosis.target.arrow_target": "При попадании стрелы, наносит %s",
+	"affix.apotheosis.target.block_self": "При блокировании, даёт %s",
+	"affix.apotheosis.target.block_attacker": "При блокировании, наносит %s",
 	"affix.apotheosis.cooldown": "[⌛ %s]",
 	"affix.apotheosis.stacking": "[Складывание]",
 
-	"affix.apotheosis:durable.desc": "• Этот предмет игнорирует %s%% от повреждения прочности.",
+	"affix.apotheosis:durable.desc": "Этот предмет игнорирует %s%% от повреждения прочности.",
 	"affix.apotheosis:socket.desc": "Гнёзда (%s)",
 
 	"socket.apotheosis.empty": "Пустое гнездо",
@@ -694,14 +694,14 @@
 	"bonus.apotheosis:bloody_arrow.desc": "При стрельбе, вы теряете %s%% от макс. здоровья и наносите %s%% урона. %s",
 	"bonus.apotheosis:leech_block.desc": "Блокирование атаки излечивает вас от %s%% урона. %s",
 	"bonus.apotheosis:all_stats.desc": "+%s%% ко всем статам",
-	"gem.apotheosis:overworld/royalty.bonus.pickaxe": "Разрушение железной руды имеет %s%% шанс сбросить вместо рудное золото.",
+	"gem.apotheosis:overworld/royalty.bonus.pickaxe": "Разрушение железной руды имеет %s%% шанс выпадения рудного золота.",
 	"bonus.apotheosis:mageslayer.desc": "Игнорирует %s%% магическиого урона и исцеляет на одинаковое кол-во.",
 	"bonus.apotheosis:twilight_ore_magnet.desc": "Может использоваться в качестве магнита для руды, что тратит дополнительно %s прочность.",
 	"bonus.apotheosis:twilight_treasure_goblin.desc": "Атакуя сущность имеет %s%% шанс вызвать гоблина с сокровищами. %s",
 	"bonus.apotheosis:twilight_fortification.desc": "При получении урона у вас есть %s%% шанс усилить себя сумеречными щитами. %s",
 
 	"misc.apotheosis.level": "уровень",
-	"misc.apotheosis.level.many": "уровней",
+	"misc.apotheosis.level.many": "уровня",
 	"name.apotheosis.treasure_goblin": "Гоблин с сокровищами",
 
 	"item.apotheosis.gem.0": "самоцвет паритета",
@@ -765,7 +765,7 @@
 	"item.apotheosis.epic_material": "Чародейские пески",
 	"item.apotheosis.mythic_material": "Выкованная богом жемчужина",
     "item.apotheosis.ancient_material": "Проявление бесконечности",
-    "item.apotheosis.gem_fused_slate": "Сланец с самоцветом",
+    "item.apotheosis.gem_fused_slate": "Дощечка с самоцветным напылением",
     "item.apotheosis.sigil_of_socketing": "Сигил гнездования",
     "item.apotheosis.sigil_of_socketing.desc": "Добавляет одно гнездо предмету",
     "item.apotheosis.sigil_of_withdrawal": "Сигил снятия",
@@ -814,7 +814,7 @@
 	"text.apotheosis.purity": "Чистота: %s",
 	"text.apotheosis.facets": "Грани: %s",
 	"text.apotheosis.socketable_into": "Вставляется в:",
-	"text.apotheosis.dot_prefix": "• %s",
+	"text.apotheosis.dot_prefix": "%s",
 	"text.apotheosis.socket_limit": "Макс. кол-во применяемых гнёзд: %s",
 	"text.apotheosis.no_upgrade": "Достигнуто макс. улучшение",
 	"text.apotheosis.cut_cost": "Стоимость огранки самоцвета",
@@ -857,7 +857,7 @@
 	"text.apotheosis.category.leggings.plural": "Поножи",
 	"text.apotheosis.category.boots": "Ботинки",
 	"text.apotheosis.category.boots.plural": "Ботинки",
-	"text.apotheosis.any_x_item": "Любые %s предметы с усилением",
+	"text.apotheosis.any_x_item": "Любой %s предмет с усилением",
 
 	"info.apotheosis.boss_spawn": "%s пробуждён неподалеку!",
 	"info.apotheosis.boss": "%s апофатический босс",
